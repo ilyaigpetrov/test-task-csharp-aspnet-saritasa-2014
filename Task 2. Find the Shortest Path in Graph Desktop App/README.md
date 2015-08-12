@@ -1,16 +1,17 @@
-﻿The Task
+The Task
 ========
 Write a shortest path solver for input graph description in xml format.
 
 The Solution
 ============
-The solution uses XSD-schema for input validation,
-LINQ to XML for further validation and interaction with the graph.
-Dijkstra algorithm is used for finding the shortest path.
+The solution uses XSD-schema for input validation,  
+LINQ to XML for further validation and interaction with the graph.  
+Dijkstra algorithm is used for finding the shortest path.  
 
 
 Directory Structure
 ===================
+```
 .
 │   README.txt // this file
 │
@@ -43,21 +44,22 @@ Directory Structure
 │
 └───_Solution // VS solution files.
         SaritasaShortestPathSolution.sln
+```
 
 Clarifications
 --------------
-Projects are put in one folder if they have dependencies.
-So,
-TestDijkstra_VSUnit depends on Dijkstra_Project,
-Application_Project depends on Dijkstra_Project.
+Projects are put in one folder if they have dependencies.  
+So,  
+TestDijkstra_VSUnit depends on Dijkstra_Project,  
+Application_Project depends on Dijkstra_Project.  
         
-Dijkstra algorithm implementation is organized as a separate project so
-it may be tested independently of the main project.
+Dijkstra algorithm implementation is organized as a separate project so  
+it may be tested independently of the main project.  
 
-Unit testing requires methods under the test to be marked as public so excluding
-it for separate testing makes it possible to conceal main project implementation
-details (you can compile Dijkstra assembly into the main assembly, but still need
-further defense against disassembling anyway).
+Unit testing requires methods under the test to be marked as public so excluding  
+it for separate testing makes it possible to conceal main project implementation  
+details (you can compile Dijkstra assembly into the main assembly, but still need  
+further defense against disassembling anyway).  
 
 It also makes it easier to substitute Dijkstra with another algorithm implementation
 in future.
