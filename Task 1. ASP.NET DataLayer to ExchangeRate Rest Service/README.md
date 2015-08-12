@@ -1,11 +1,12 @@
 The Task
 ========
 The task is to write an exchange rate site:  
-	- you put in a date range and a currency,  
-	- and the site plots you exchange rates for the request.  
+- you put in a date range and a currency,  
+- and the site plots you exchange rates for the request.  
+
 Other requirements:  
-	- data for rates is retrieved from an external JSON service,  
-	- site's db is populated with retrieved data, so the db is used like a cache.  
+- data for rates is retrieved from an external JSON service,  
+- site's db is populated with retrieved data, so the db is used like a cache.  
 
 
 The Solution
@@ -13,9 +14,10 @@ The Solution
 The solution includes an Asp.net MVC project with a test project based on  
 VisualStudio tesing library.  
 Tools:  
-	- VisualStudio 2013 for Web,  
-	- Entity Framework 6,  
-	- ASP.NET MVC 5.  
+
+- VisualStudio 2013 for Web  
+- Entity Framework 6  
+- ASP.NET MVC 5  
 
 
 Apologies
@@ -48,11 +50,12 @@ a defined set is thrown. The set is defined in `ExchangeResources.cs`.
 This set may be used in repository implementations not backed up by  
 external resources, so they may throw the same set.  
 The set includes types:  
-	- try_later exception (f.e., timeout is reached, resource is under maintainance),  
-	- try_other_request (f.e., the resource has no such dates or currency),  
-	- maintainance exception (f.e., the resource requires payment),  
-	- resource_brokage exception (f.e., the resource is broken, sends 5xx),  
-	- development exception (caused by mistakes in our code).  
+
+- try_later exception (f.e., timeout is reached, resource is under maintainance),  
+- try_other_request (f.e., the resource has no such dates or currency),  
+- maintainance exception (f.e., the resource requires payment),  
+- resource_brokage exception (f.e., the resource is broken, sends 5xx),  
+- development exception (caused by mistakes in our code).  
 
 
 Known Issues and Prospectives
