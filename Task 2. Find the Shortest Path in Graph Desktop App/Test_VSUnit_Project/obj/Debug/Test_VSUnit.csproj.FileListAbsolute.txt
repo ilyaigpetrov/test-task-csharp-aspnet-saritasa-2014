@@ -1,7 +1,0 @@
-F:\__Storage__\Job\Seek\2014.03\interensee.ru\C#\1. Test Task\Solution\SaritasaShortestPath\Test_VSUnit\obj\Debug\Test_VSUnit.csprojResolveAssemblyReference.cache
-F:\__Storage__\Job\Seek\2014.03\interensee.ru\C#\1. Test Task\Solution\SaritasaShortestPath\Test_VSUnit\bin\Debug\Test_VSUnit.dll
-F:\__Storage__\Job\Seek\2014.03\interensee.ru\C#\1. Test Task\Solution\SaritasaShortestPath\Test_VSUnit\bin\Debug\Test_VSUnit.pdb
-F:\__Storage__\Job\Seek\2014.03\interensee.ru\C#\1. Test Task\Solution\SaritasaShortestPath\Test_VSUnit\bin\Debug\SaritasaSalesman.exe
-F:\__Storage__\Job\Seek\2014.03\interensee.ru\C#\1. Test Task\Solution\SaritasaShortestPath\Test_VSUnit\bin\Debug\SaritasaSalesman.pdb
-F:\__Storage__\Job\Seek\2014.03\interensee.ru\C#\1. Test Task\Solution\SaritasaShortestPath\Test_VSUnit\obj\Debug\Test_VSUnit.dll
-F:\__Storage__\Job\Seek\2014.03\interensee.ru\C#\1. Test Task\Solution\SaritasaShortestPath\Test_VSUnit\obj\Debug\Test_VSUnit.pdb

@@ -1,9 +1,0 @@
-F:\__Storage__\Job\Seek\2014.03\interensee.ru\C#\1. Test Task\Solution\SaritasaShortestPath\Test_VSUnit_Project\bin\Debug\Test_VSUnit.dll
-F:\__Storage__\Job\Seek\2014.03\interensee.ru\C#\1. Test Task\Solution\SaritasaShortestPath\Test_VSUnit_Project\bin\Debug\Test_VSUnit.pdb
-F:\__Storage__\Job\Seek\2014.03\interensee.ru\C#\1. Test Task\Solution\SaritasaShortestPath\Test_VSUnit_Project\bin\Debug\Dijkstra.dll
-F:\__Storage__\Job\Seek\2014.03\interensee.ru\C#\1. Test Task\Solution\SaritasaShortestPath\Test_VSUnit_Project\bin\Debug\Dijkstra.pdb
-F:\__Storage__\Job\Seek\2014.03\interensee.ru\C#\1. Test Task\Solution\SaritasaShortestPath\Test_VSUnit_Project\obj\Debug\TestApplication_VSUnit.csprojResolveAssemblyReference.cache
-F:\__Storage__\Job\Seek\2014.03\interensee.ru\C#\1. Test Task\Solution\SaritasaShortestPath\Test_VSUnit_Project\obj\Debug\Test_VSUnit.dll
-F:\__Storage__\Job\Seek\2014.03\interensee.ru\C#\1. Test Task\Solution\SaritasaShortestPath\Test_VSUnit_Project\obj\Debug\Test_VSUnit.pdb
-F:\__Storage__\Job\Seek\2014.03\interensee.ru\C#\1. Test Task\Solution\SaritasaShortestPath\Test_VSUnit_Project\bin\Debug\SaritasaShortestPathAssemblyName.exe
-F:\__Storage__\Job\Seek\2014.03\interensee.ru\C#\1. Test Task\Solution\SaritasaShortestPath\Test_VSUnit_Project\bin\Debug\SaritasaShortestPathAssemblyName.pdb
