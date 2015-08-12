@@ -1,0 +1,31 @@
+﻿@model SampleMVCSolution.Models.ExchangeRangeViewModel
+
+@{
+    ViewBag.Title = "Range";
+}
+
+<h2>Range</h2>
+
+Select dates and currency code.
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+    <h4>Start Date</h4>
+    var startDate = ViewBag.startDate;
+    @Html.EditorFor(model => model.StartDate, new { htmlAttributes = new { @class = "form-control" } })
+    @Html.ValidationMessageFor(model => model.StartDate)
+    <h4>End Date</h4>
+    @Html.EditorFor(model => model.EndDate, new { htmlAttributes = new { @class = "form-control" } })
+    @Html.ValidationMessageFor(model => model.EndDate)
+    <h4>Currency Code</h4>
+    @Html.EditorFor(model => model.TargetCurrencyCode, new { htmlAttributes = new { @class = "form-control" } })
+    @Html.ValidationMessageFor(model => model.TargetCurrencyCode)
+    <br/>
+    <input type="submit" value="Submit" class="btn btn-default" />
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
