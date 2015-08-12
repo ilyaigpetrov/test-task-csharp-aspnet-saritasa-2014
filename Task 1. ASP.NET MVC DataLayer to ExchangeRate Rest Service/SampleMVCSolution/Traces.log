@@ -1,0 +1,2485 @@
+some textTRACE DIAGNOSTICS
+OK, FIND ME
+TRACE DIAGNOSTICS
+OK, FIND ME
+TRACE DIAGNOSTICS
+OK, FIND ME
+TRACE DIAGNOSTICS
+OK, FIND ME
+TRACE DIAGNOSTICS
+OK, FIND ME
+Application_Start is called.
+ExchangeInitializer.Seed is called.
+Application_Start is called.
+Application_Start is called.
+Application_Start is called.
+Application_Start is called.
+Application_Start is called.
+Application_Start is called.
+Application_Start is called.
+ExchangeInitializer is created.
+ExchangeInitializer is created.
+Application_Start is called.
+Application_Start is called.
+ExchangeInitializer is created.
+Application_Start is called.
+ExchangeInitializer is created.
+Application_Start is called.
+============================
+Application_Start is called.
+ExchangeInitializer is created.
+============================
+Application_Start is called.
+ExchangeInitializer is created.
+============================
+Application_Start is called.
+ExchangeInitializer is created.
+============================
+Application_Start is called.
+ExchangeInitializer is created.
+ExchangeInitializer.Seed is called.
+============================
+Application_Start is called.
+============================
+Application_Start is called.
+ExchangeInitializer is created.
+============================
+Application_Start is called.
+ExchangeInitializer is created.
+============================
+Application_Start is called.
+ExchangeInitializer is created.
+============================
+Application_Start is called.
+ExchangeInitializer is created.
+ExchangeInitializer.Seed is called.
+============================
+Application_Start is called.
+============================
+Application_Start is called.
+ExchangeInitializer is created.
+ExchangeInitializer.Seed is called.
+============================
+Application_Start is called.
+ExchangeInitializer is created.
+ExchangeInitializer.Seed is called.
+============================
+Application_Start is called.
+ExchangeInitializer is created.
+ExchangeInitializer.Seed is called.
+============================
+Application_Start is called.
+ExchangeInitializer is created.
+ExchangeInitializer.Seed is called.
+============================
+Application_Start is called.
+ExchangeInitializer is created.
+ExchangeInitializer.Seed is called.
+ROUTES:
+System.Web.Mvc.RouteCollectionExtensions+IgnoreRouteInternal
+System.Web.Routing.Route
+============================
+Application_Start is called.
+ExchangeInitializer is created.
+ExchangeInitializer.Seed is called.
+============================
+Application_Start is called.
+ExchangeInitializer is created.
+ExchangeInitializer.Seed is called.
+INDEX
+INDEX
+INDEX
+============================
+Application_Start is called.
+ExchangeInitializer is created.
+ExchangeInitializer.Seed is called.
+INDEX
+EDIT
+EDIT
+EDIT
+EDIT
+EDIT
+============================
+Application_Start is called.
+ExchangeInitializer is created.
+ExchangeInitializer.Seed is called.
+EDIT:01_01_01!
+EDIT:01_01_01!
+EDIT:01_01_01!
+EDIT:01_01_01!
+EDIT:01_01_01!
+EDIT:01_01_01!
+EDIT:01_01_01!
+EDIT:01_01_01!
+EDIT:01_01_01!
+EDIT:01_01_01!
+EDIT:01_01_02!
+============================
+Application_Start is called.
+EDIT_:01_01_02!
+ExchangeInitializer is created.
+ExchangeInitializer.Seed is called.
+EDIT_:01_01_02!
+EDIT_:01_01_04!
+============================
+Application_Start is called.
+EDIT_2:!
+EDIT_2:!
+EDIT_2:!
+EDIT_2:!
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+ExchangeInitializer.Seed is called.
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+INDEX
+ExchangeInitializer is created.
+ExchangeInitializer.Seed is called.
+CUSTOM model binder is used: BindModel.
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+ExchangeInitializer.Seed is called.
+INDEX
+INDEX
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+CUSTOM model binder is used: BindModel.
+CUSTOM model binder is used: BindModel.
+CUSTOM model binder is used: BindModel.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+EDIT_3:01.09.2005 0:00:00!
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+EDIT_3:01.09.2005 0:00:00!
+ExchangeInitializer is created.
+============================
+Application_Start is called.
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+INDEX
+INDEX
+DETAILS:01.09.2005 0:00:00!
+DETAILS:!
+DETAILS:!
+DETAILS:!
+DETAILS:!
+DETAILS:!
+DETAILS:!
+============================
+Application_Start is called.
+SEARCH:!
+SEARCH:!
+SEARCH:!
+SEARCH:!
+SEARCH:!
+SEARCH:!
+SEARCH:!
+SEARCH:!
+SEARCH:!
+SEARCH:!
+SEARCH:!
+SEARCH:!
+============================
+Application_Start is called.
+SEARCH:!!
+DETAILS:01.01.2011 0:00:00!
+ExchangeInitializer is created.
+SEARCH:!!
+DETAILS:01.09.2005 0:00:00!
+SEARCH:!!
+============================
+Application_Start is called.
+SEARCH:!!
+Your DateTime is parsed as null.
+DETAILS:01.09.2005 0:00:00!
+ExchangeInitializer is created.
+============================
+Application_Start is called.
+DETAILS:01.09.2005 0:00:00!
+ExchangeInitializer is created.
+SEARCH:01.09.2005 0:00:00!!
+============================
+Application_Start is called.
+SEARCH:01.09.2005 0:00:00!!
+ExchangeInitializer is created.
+============================
+Application_Start is called.
+SEARCH:01.09.2005 0:00:00!!
+ExchangeInitializer is created.
+SEARCH:01.09.2005 0:00:00!!
+============================
+Application_Start is called.
+SEARCH:01.09.2005 0:00:00!!
+ExchangeInitializer is created.
+============================
+Application_Start is called.
+============================
+Application_Start is called.
+SEARCH:01.09.2005 0:00:00!!
+ExchangeInitializer is created.
+SEARCH:02.09.2005 0:00:00!!
+SEARCH:03.09.2005 0:00:00!!
+SEARCH:05.09.2005 0:00:00!!
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:05.09.2005 0:00:00
+DETAILS:05.09.2005 0:00:00 for RUB!
+ExchangeInitializer is created.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:05.09.2005 0:00:00
+DETAILS:05.09.2005 0:00:00 for RUB!
+INDEX
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:05.09.2005 0:00:00
+DETAILS:05.09.2005 0:00:00 for USD!
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+DETAILS:01.09.2005 0:00:00 for USD!
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+DETAILS:01.09.2005 0:00:00 for USD!
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+DETAILS:01.09.2005 0:00:00 for RUB!
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+DETAILS:01.09.2005 0:00:00 for USD!
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:02.09.2005 0:00:00
+RANGE:01.09.2005 0:00:00,02.09.2005 0:00:00,USD!!
+ExchangeInitializer is created.
+FOUND:SELECT 
+    [Extent1].[Date] AS [Date], 
+    [Extent1].[Currency] AS [Currency], 
+    [Extent1].[Rate] AS [Rate]
+    FROM [dbo].[Exchanges] AS [Extent1]
+    WHERE [Extent1].[Date] = @p__linq__0!
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:02.09.2005 0:00:00
+RANGE:01.09.2005 0:00:00,02.09.2005 0:00:00,USD!!
+ExchangeInitializer is created.
+FOUND:SELECT 
+    [Extent1].[Date] AS [Date], 
+    [Extent1].[Currency] AS [Currency], 
+    [Extent1].[Rate] AS [Rate]
+    FROM [dbo].[Exchanges] AS [Extent1]
+    WHERE [Extent1].[Date] = @p__linq__0!
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:03.09.2005 0:00:00
+RANGE:01.09.2005 0:00:00,03.09.2005 0:00:00,USD!!
+FOUND:SELECT 
+    [Extent1].[Date] AS [Date], 
+    [Extent1].[Currency] AS [Currency], 
+    [Extent1].[Rate] AS [Rate]
+    FROM [dbo].[Exchanges] AS [Extent1]
+    WHERE [Extent1].[Date] = @p__linq__0!
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:03.09.2005 0:00:00
+RANGE:01.09.2005 0:00:00,03.09.2005 0:00:00,USD!!
+FOUND:SELECT 
+    [Extent1].[Date] AS [Date], 
+    [Extent1].[Currency] AS [Currency], 
+    [Extent1].[Rate] AS [Rate]
+    FROM [dbo].[Exchanges] AS [Extent1]
+    WHERE [Extent1].[Date] = @p__linq__0!
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:03.09.2005 0:00:00
+RANGE:01.09.2005 0:00:00,03.09.2005 0:00:00,USD!!
+FOUND:SELECT 
+    [Extent1].[Date] AS [Date], 
+    [Extent1].[Currency] AS [Currency], 
+    [Extent1].[Rate] AS [Rate]
+    FROM [dbo].[Exchanges] AS [Extent1]
+    WHERE [Extent1].[Date] = @p__linq__0!
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:03.09.2005 0:00:00
+RANGE:01.09.2005 0:00:00,03.09.2005 0:00:00,USD!!
+FOUND:SELECT 
+    [Extent1].[Date] AS [Date], 
+    [Extent1].[Currency] AS [Currency], 
+    [Extent1].[Rate] AS [Rate]
+    FROM [dbo].[Exchanges] AS [Extent1]
+    WHERE [Extent1].[Date] = @p__linq__0!
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:03.09.2005 0:00:00
+RANGE_2:01.09.2005 0:00:00,03.09.2005 0:00:00,USD!!
+ExchangeInitializer is created.
+FOUND:SELECT 
+    [Extent1].[Date] AS [Date], 
+    [Extent1].[Currency] AS [Currency], 
+    [Extent1].[Rate] AS [Rate]
+    FROM [dbo].[Exchanges] AS [Extent1]
+    WHERE (@p__linq__0 <= [Extent1].[Date]) AND ([Extent1].[Date] <= @p__linq__1)!
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:02.09.2005 0:00:00
+RANGE_2:01.09.2005 0:00:00,02.09.2005 0:00:00,USD!!
+FOUND:SELECT 
+    [Extent1].[Date] AS [Date], 
+    [Extent1].[Currency] AS [Currency], 
+    [Extent1].[Rate] AS [Rate]
+    FROM [dbo].[Exchanges] AS [Extent1]
+    WHERE (@p__linq__0 <= [Extent1].[Date]) AND ([Extent1].[Date] <= @p__linq__1)!
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+RANGE_2:01.09.2005 0:00:00,01.09.2005 0:00:00,USD!!
+FOUND:SELECT 
+    [Extent1].[Date] AS [Date], 
+    [Extent1].[Currency] AS [Currency], 
+    [Extent1].[Rate] AS [Rate]
+    FROM [dbo].[Exchanges] AS [Extent1]
+    WHERE (@p__linq__0 <= [Extent1].[Date]) AND ([Extent1].[Date] <= @p__linq__1)!
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+RANGE_2:01.09.2005 0:00:00,01.09.2005 0:00:00,USD!!
+ExchangeInitializer is created.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.08.2005 0:00:00
+RANGE_2:01.09.2005 0:00:00,01.08.2005 0:00:00,USD!!
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.08.2005 0:00:00
+RANGE_2:01.09.2005 0:00:00,01.08.2005 0:00:00,USD!!
+ExchangeInitializer is created.
+Nothing found in the DB. Let's retrieve it!
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.08.2005 0:00:00
+RANGE_2:01.09.2005 0:00:00,01.08.2005 0:00:00,USD!!
+Nothing found in the DB. Let's retrieve it!
+DESERIALIZED.
+RATE:ANG -> 1,780673
+RATE:AUD -> 1,637704
+RATE:AWG -> 1,780673
+RATE:BBD -> 2
+RATE:BMD -> 1
+RATE:BRL -> 1,205481
+RATE:BSD -> 1
+RATE:CAD -> 1,540973
+RATE:CHF -> 1,37505
+RATE:CNY -> 8,27
+RATE:DKK -> 6,376822
+RATE:EUR -> 0,853515
+RATE:FKP -> 0,603617
+RATE:GBP -> 0,602941
+RATE:HKD -> 7,770505
+RATE:IEP -> 0,673654
+RATE:INR -> 42,536595
+RATE:JPY -> 113,646955
+RATE:KPW -> 900
+RATE:KRW -> 1209,104763
+RATE:MXN -> 9,900005
+RATE:MYR -> 3,794655
+RATE:NOK -> 7,601147
+RATE:NZD -> 1,872896
+RATE:PAB -> 1
+RATE:SAR -> 3,75077
+RATE:SEK -> 8,117873
+RATE:SGD -> 1,655354
+RATE:SHP -> 0,603617
+RATE:THB -> 36,57173
+RATE:TWD -> 32,264035
+RATE:USD -> 1
+RATE:ZAR -> 5,89041
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:02.09.2065 0:00:00
+RANGE_2:01.09.2005 0:00:00,02.09.2065 0:00:00,USD!!
+ExchangeInitializer is created.
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:02.09.2005 0:00:00
+Range requested for:01.09.2005 0:00:00,02.09.2005 0:00:00,USD.
+ExchangeInitializer is created.
+ExchangeInitializer.Seed is called.
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.09.2005 0:00:00
+Range requested for:01.09.2005 0:00:00,04.09.2005 0:00:00,USD.
+Found rates for 3 out of 4 days in the DB. Let's retrieve the rest!
+Now we have all exchanges and ready to render a view.
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.09.2005 0:00:00
+Range requested for:01.09.2005 0:00:00,04.09.2005 0:00:00,USD.
+ExchangeInitializer is created.
+Found rates for 3 out of 4 days in the DB. Let's retrieve the rest!
+Now we have all exchanges and ready to render a view.
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.09.2005 0:00:00
+Range requested for:01.09.2005 0:00:00,04.09.2005 0:00:00,USD.
+ExchangeInitializer is created.
+Found rates for 3 out of 4 days in the DB. Let's retrieve the rest!
+Call to exchange external resource.
+Now we have all exchanges and ready to render a view.
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.09.2005 0:00:00
+Range requested for:01.09.2005 0:00:00,04.09.2005 0:00:00,USD.
+ExchangeInitializer is created.
+Found rates for 3 out of 4 days in the DB. Let's retrieve the rest!
+We have 0 dates to retrieve.
+Call to exchange external resource.
+Now we have all exchanges and ready to render a view.
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.09.2005 0:00:00
+Range requested for:01.09.2005 0:00:00,04.09.2005 0:00:00,USD.
+ExchangeInitializer is created.
+Found rates for 3 out of 4 days in the DB. Let's retrieve the rest!
+01.09.2005 0:00:00 is already available: 01.09.2005 0:00:00
+02.09.2005 0:00:00 is already available: 02.09.2005 0:00:00
+03.09.2005 0:00:00 is already available: 03.09.2005 0:00:00
+We have 0 dates to retrieve.
+Call to exchange external resource.
+Now we have all exchanges and ready to render a view.
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.09.2005 0:00:00
+Range requested for:01.09.2005 0:00:00,04.09.2005 0:00:00,USD.
+ExchangeInitializer is created.
+Found rates for 3 out of 4 days in the DB. Let's retrieve the rest!
+01.09.2005 0:00:00 is already available: 01.09.2005 0:00:00
+02.09.2005 0:00:00 is already available: 02.09.2005 0:00:00
+03.09.2005 0:00:00 is already available: 03.09.2005 0:00:00
+We have 1 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 04.09.2005 0:00:00
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.09.2005 0:00:00
+Range requested for:01.09.2005 0:00:00,04.09.2005 0:00:00,USD.
+ExchangeInitializer is created.
+Found rates for 3 out of 4 days in the DB. Let's retrieve the rest!
+01.09.2005 0:00:00 is already available: 01.09.2005 0:00:00
+02.09.2005 0:00:00 is already available: 02.09.2005 0:00:00
+03.09.2005 0:00:00 is already available: 03.09.2005 0:00:00
+We have 1 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 04.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.09.2005 0:00:00
+Range requested for:01.09.2005 0:00:00,04.09.2005 0:00:00,USD.
+Found rates for 3 out of 4 days in the DB. Let's retrieve the rest!
+01.09.2005 0:00:00 is already available: 01.09.2005 0:00:00
+02.09.2005 0:00:00 is already available: 02.09.2005 0:00:00
+03.09.2005 0:00:00 is already available: 03.09.2005 0:00:00
+We have 1 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 04.09.2005 0:00:00
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.09.2005 0:00:00
+Range requested for:01.09.2005 0:00:00,04.09.2005 0:00:00,USD.
+ExchangeInitializer is created.
+Found rates for 3 out of 4 days in the DB. Let's retrieve the rest!
+01.09.2005 0:00:00 is already available: 01.09.2005 0:00:00
+02.09.2005 0:00:00 is already available: 02.09.2005 0:00:00
+03.09.2005 0:00:00 is already available: 03.09.2005 0:00:00
+We have 1 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 04.09.2005 0:00:00
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.09.2005 0:00:00
+Range requested for:01.09.2005 0:00:00,04.09.2005 0:00:00,USD.
+ExchangeInitializer is created.
+Found rates for 3 out of 4 days in the DB. Let's retrieve the rest!
+01.09.2005 0:00:00 is already available: 01.09.2005 0:00:00
+02.09.2005 0:00:00 is already available: 02.09.2005 0:00:00
+03.09.2005 0:00:00 is already available: 03.09.2005 0:00:00
+We have 1 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 04.09.2005 0:00:00
+Got response with error status code: 404
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.09.2005 0:00:00
+Range requested for:01.09.2005 0:00:00,04.09.2005 0:00:00,USD.
+ExchangeInitializer is created.
+Found rates for 3 out of 4 days in the DB. Let's retrieve the rest!
+01.09.2005 0:00:00 is already available: 01.09.2005 0:00:00
+02.09.2005 0:00:00 is already available: 02.09.2005 0:00:00
+03.09.2005 0:00:00 is already available: 03.09.2005 0:00:00
+We have 1 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 04.09.2005 0:00:00
+Got response with error status code: 429
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.09.2005 0:00:00
+Range requested for:01.09.2005 0:00:00,04.09.2005 0:00:00,USD.
+Found rates for 3 out of 4 days in the DB. Let's retrieve the rest!
+01.09.2005 0:00:00 is already available: 01.09.2005 0:00:00
+02.09.2005 0:00:00 is already available: 02.09.2005 0:00:00
+03.09.2005 0:00:00 is already available: 03.09.2005 0:00:00
+We have 1 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 04.09.2005 0:00:00
+Got response with error status code: 429
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.09.2005 0:00:00
+Range requested for:01.09.2005 0:00:00,04.09.2005 0:00:00,USD.
+ExchangeInitializer is created.
+Found rates for 3 out of 4 days in the DB. Let's retrieve the rest!
+01.09.2005 0:00:00 is already available: 01.09.2005 0:00:00
+02.09.2005 0:00:00 is already available: 02.09.2005 0:00:00
+03.09.2005 0:00:00 is already available: 03.09.2005 0:00:00
+We have 1 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 04.09.2005 0:00:00
+Got response with error status code: 429
+ProtocolError
+============================
+Application_Start is called.
+Range requested for:01.09.2005 0:00:00,04.09.2005 0:00:00,RUB.
+ExchangeInitializer is created.
+Found rates for 0 out of 4 days in the DB. Let's retrieve the rest!
+We have 4 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 01.09.2005 0:00:00
+TEST with date:01.09.2005 0:00:00
+WebException with status:ProtocolError
+Got response with error status: 500
+Resource staff secret error message:<!DOCTYPE html>
+<html>
+    <head>
+        <title>Заданный аргумент находится вне диапазона допустимых значений.<br>Имя параметра: value</title>
+        <meta name="viewport" content="width=device-width" />
+        <style>
+         body {font-family:"Verdana";font-weight:normal;font-size: .7em;color:black;} 
+         p {font-family:"Verdana";font-weight:normal;color:black;margin-top: -5px}
+         b {font-family:"Verdana";font-weight:bold;color:black;margin-top: -5px}
+         H1 { font-family:"Verdana";font-weight:normal;font-size:18pt;color:red }
+         H2 { font-family:"Verdana";font-weight:normal;font-size:14pt;color:maroon }
+         pre {font-family:"Consolas","Lucida Console",Monospace;font-size:11pt;margin:0;padding:0.5em;line-height:14pt}
+         .marker {font-weight: bold; color: black;text-decoration: none;}
+         .version {color: gray;}
+         .error {margin-bottom: 10px;}
+         .expandable { text-decoration:underline; font-weight:bold; color:navy; cursor:hand; }
+         @media screen and (max-width: 639px) {
+          pre { width: 440px; overflow: auto; white-space: pre-wrap; word-wrap: break-word; }
+         }
+         @media screen and (max-width: 479px) {
+          pre { width: 280px; }
+         }
+        </style>
+    </head>
+
+    <body bgcolor="white">
+
+            <span><H1>Ошибка сервера в приложении '/'.<hr width=100% size=1 color=silver></H1>
+
+            <h2> <i>Заданный аргумент находится вне диапазона допустимых значений.<br>Имя параметра: value</i> </h2></span>
+
+            <font face="Arial, Helvetica, Geneva, SunSans-Regular, sans-serif ">
+
+            <b> Описание: </b>Необработанное исключение при выполнении текущего веб-запроса. Изучите трассировку стека для получения дополнительных сведений о данной ошибке и о вызвавшем ее фрагменте кода.
+
+            <br><br>
+
+            <b> Сведения об исключении: </b>System.ArgumentOutOfRangeException: Заданный аргумент находится вне диапазона допустимых значений.<br>Имя параметра: value<br><br>
+
+            <b>Ошибка источника:</b> <br><br>
+
+            <table width=100% bgcolor="#ffffcc">
+               <tr>
+                  <td>
+                      <code>
+
+Необработанное исключение при выполнении текущего веб-запроса. Информацию о происхождении и месте возникновения исключения можно получить, используя следующую трассировку стека исключений.</code>
+
+                  </td>
+               </tr>
+            </table>
+
+            <br>
+
+            <b>Трассировка стека:</b> <br><br>
+
+            <table width=100% bgcolor="#ffffcc">
+               <tr>
+                  <td>
+                      <code><pre>
+
+[ArgumentOutOfRangeException: Заданный аргумент находится вне диапазона допустимых значений.
+Имя параметра: value]
+   System.Web.HttpResponse.set_StatusDescription(String value) +3125831
+   System.Web.HttpResponseWrapper.set_StatusDescription(String value) +9
+   System.Web.Mvc.HttpStatusCodeResult.ExecuteResult(ControllerContext context) +83
+   System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult) +13
+   System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult) +56
+   System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult) +420
+   System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult) +52
+   System.Web.Mvc.Async.&lt;&gt;c__DisplayClass2b.&lt;BeginInvokeAction&gt;b__1c() +173
+   System.Web.Mvc.Async.&lt;&gt;c__DisplayClass21.&lt;BeginInvokeAction&gt;b__1e(IAsyncResult asyncResult) +100
+   System.Web.Mvc.Async.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult) +10
+   System.Web.Mvc.Async.WrappedAsyncResultBase`1.End() +49
+   System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeAction(IAsyncResult asyncResult) +27
+   System.Web.Mvc.Controller.&lt;BeginExecuteCore&gt;b__1d(IAsyncResult asyncResult, ExecuteCoreState innerState) +13
+   System.Web.Mvc.Async.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult) +36
+   System.Web.Mvc.Async.WrappedAsyncResultBase`1.End() +54
+   System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult) +39
+   System.Web.Mvc.Controller.&lt;BeginExecute&gt;b__15(IAsyncResult asyncResult, Controller controller) +12
+   System.Web.Mvc.Async.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult) +28
+   System.Web.Mvc.Async.WrappedAsyncResultBase`1.End() +54
+   System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult) +29
+   System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult) +10
+   System.Web.Mvc.MvcHandler.&lt;BeginProcessRequest&gt;b__5(IAsyncResult asyncResult, ProcessRequestState innerState) +21
+   System.Web.Mvc.Async.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult) +36
+   System.Web.Mvc.Async.WrappedAsyncResultBase`1.End() +54
+   System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult) +31
+   System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result) +9
+   System.Web.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute() +9514812
+   System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean&amp; completedSynchronously) +155
+</pre></code>
+
+                  </td>
+               </tr>
+            </table>
+
+            <br>
+
+            <hr width=100% size=1 color=silver>
+
+            <b>Информация о версии:</b>&nbsp;Платформа Microsoft .NET Framework, версия:4.0.30319; ASP.NET, версия:4.0.30319.18408
+
+            </font>
+
+    </body>
+</html>
+<!-- 
+[ArgumentOutOfRangeException]: Заданный аргумент находится вне диапазона допустимых значений.
+Имя параметра: value
+   в System.Web.HttpResponse.set_StatusDescription(String value)
+   в System.Web.HttpResponseWrapper.set_StatusDescription(String value)
+   в System.Web.Mvc.HttpStatusCodeResult.ExecuteResult(ControllerContext context)
+   в System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   в System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   в System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   в System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   в System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   в System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+   в System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   в System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   в System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeAction(IAsyncResult asyncResult)
+   в System.Web.Mvc.Controller.<BeginExecuteCore>b__1d(IAsyncResult asyncResult, ExecuteCoreState innerState)
+   в System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   в System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   в System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   в System.Web.Mvc.Controller.<BeginExecute>b__15(IAsyncResult asyncResult, Controller controller)
+   в System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   в System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   в System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   в System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   в System.Web.Mvc.MvcHandler.<BeginProcessRequest>b__5(IAsyncResult asyncResult, ProcessRequestState innerState)
+   в System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   в System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   в System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   в System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   в System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   в System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+-->
+TEST with date:
+============================
+Application_Start is called.
+TEST with date:
+Set status code to 429
+Range requested for:01.09.2005 0:00:00,04.09.2005 0:00:00,RUB.
+ExchangeInitializer is created.
+Found rates for 0 out of 4 days in the DB. Let's retrieve the rest!
+We have 4 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 01.09.2005 0:00:00
+TEST with date:01.09.2005 0:00:00
+Got response with status code without error: 200
+============================
+Application_Start is called.
+Set status code to 429
+Range requested for:01.09.2005 0:00:00,04.09.2005 0:00:00,RUB.
+ExchangeInitializer is created.
+Found rates for 0 out of 4 days in the DB. Let's retrieve the rest!
+We have 4 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 01.09.2005 0:00:00
+TEST with date:01.09.2005 0:00:00
+Got response with status code without error: 200
+DESERIALIZED:
+TEST with date:
+TEST with date:
+TEST with date:
+============================
+Application_Start is called.
+TEST with date:, statusCode is:200
+Set status code to 429
+Range requested for:01.09.2005 0:00:00,04.09.2005 0:00:00,RUB.
+ExchangeInitializer is created.
+Found rates for 0 out of 4 days in the DB. Let's retrieve the rest!
+We have 4 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 01.09.2005 0:00:00
+TEST with date:01.09.2005 0:00:00, statusCode is:200
+Got response with status code without error: 200
+DESERIALIZED:
+============================
+Application_Start is called.
+TEST with date:, statusCode is:200
+Set status code to 429
+Range requested for:01.09.2005 0:00:00,04.09.2005 0:00:00,RUB.
+ExchangeInitializer is created.
+Found rates for 0 out of 4 days in the DB. Let's retrieve the rest!
+We have 4 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 01.09.2005 0:00:00
+TEST with date:01.09.2005 0:00:00, statusCode is:200
+Got response with status code without error: 200
+DESERIALIZED:
+Set status code to 201
+Range requested for:01.09.2005 0:00:00,04.09.2005 0:00:00,RUB.
+Found rates for 0 out of 4 days in the DB. Let's retrieve the rest!
+We have 4 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 01.09.2005 0:00:00
+TEST with date:01.09.2005 0:00:00, statusCode is:200
+Got response with status code without error: 200
+DESERIALIZED:
+Set status code to 201
+Range requested for:01.09.2005 0:00:00,04.09.2005 0:00:00,RUB.
+Found rates for 0 out of 4 days in the DB. Let's retrieve the rest!
+We have 4 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 01.09.2005 0:00:00
+TEST with date:01.09.2005 0:00:00, statusCode is:200
+Got response with status code without error: 200
+DESERIALIZED:
+============================
+Application_Start is called.
+Set status code to 429
+Range requested for:01.09.2005 0:00:00,04.09.2005 0:00:00,RUB.
+ExchangeInitializer is created.
+Found rates for 0 out of 4 days in the DB. Let's retrieve the rest!
+We have 4 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 01.09.2005 0:00:00
+TEST with date:01.09.2005 0:00:00, statusCode is:429
+WebException with status:ProtocolError
+Got response with error status: 429
+Resource staff secret error message:<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+<head> 
+<title>Подробно об ошибке IIS 8.0 - 429.0 - jsonResponseMock</title> 
+<style type="text/css"> 
+<!-- 
+body{margin:0;font-size:.7em;font-family:Verdana,Arial,Helvetica,sans-serif;} 
+code{margin:0;color:#006600;font-size:1.1em;font-weight:bold;} 
+.config_source code{font-size:.8em;color:#000000;} 
+pre{margin:0;font-size:1.4em;word-wrap:break-word;} 
+ul,ol{margin:10px 0 10px 5px;} 
+ul.first,ol.first{margin-top:5px;} 
+fieldset{padding:0 15px 10px 15px;word-break:break-all;} 
+.summary-container fieldset{padding-bottom:5px;margin-top:4px;} 
+legend.no-expand-all{padding:2px 15px 4px 10px;margin:0 0 0 -12px;} 
+legend{color:#333333;;margin:4px 0 8px -12px;_margin-top:0px; 
+font-weight:bold;font-size:1em;} 
+a:link,a:visited{color:#007EFF;font-weight:bold;} 
+a:hover{text-decoration:none;} 
+h1{font-size:2.4em;margin:0;color:#FFF;} 
+h2{font-size:1.7em;margin:0;color:#CC0000;} 
+h3{font-size:1.4em;margin:10px 0 0 0;color:#CC0000;} 
+h4{font-size:1.2em;margin:10px 0 5px 0; 
+}#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS",Verdana,sans-serif; 
+ color:#FFF;background-color:#5C87B2; 
+}#content{margin:0 0 0 2%;position:relative;} 
+.summary-container,.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;} 
+.content-container p{margin:0 0 10px 0; 
+}#details-left{width:35%;float:left;margin-right:2%; 
+}#details-right{width:63%;float:left;overflow:hidden; 
+}#server_version{width:96%;_height:1px;min-height:1px;margin:0 0 5px 0;padding:11px 2% 8px 2%;color:#FFFFFF; 
+ background-color:#5A7FA5;border-bottom:1px solid #C1CFDD;border-top:1px solid #4A6C8E;font-weight:normal; 
+ font-size:1em;color:#FFF;text-align:right; 
+}#server_version p{margin:5px 0;} 
+table{margin:4px 0 4px 0;width:100%;border:none;} 
+td,th{vertical-align:top;padding:3px 0;text-align:left;font-weight:normal;border:none;} 
+th{width:30%;text-align:right;padding-right:2%;font-weight:bold;} 
+thead th{background-color:#ebebeb;width:25%; 
+}#details-right th{width:20%;} 
+table tr.alt td,table tr.alt th{} 
+.highlight-code{color:#CC0000;font-weight:bold;font-style:italic;} 
+.clear{clear:both;} 
+.preferred{padding:0 5px 2px 5px;font-weight:normal;background:#006633;color:#FFF;font-size:.8em;} 
+--> 
+</style> 
+ 
+</head> 
+<body> 
+<div id="content"> 
+<div class="content-container"> 
+  <h3>Ошибка HTTP  429.0 - jsonResponseMock</h3> 
+  <h4>Модуль обработки настраиваемых ошибок не распознает эту ошибку.</h4> 
+</div> 
+<div class="content-container"> 
+ <fieldset><h4>Наиболее вероятные причины:</h4> 
+  <ul> 	<li>Модуль устанавливает нечасто используемый код состояния.</li> </ul> 
+ </fieldset> 
+</div> 
+<div class="content-container"> 
+ <fieldset><h4>Что можно предпринять:</h4> 
+  <li>Выясните, почему этот модуль устанавливает код состояния.</li> 
+ </fieldset> 
+</div> 
+ 
+<div class="content-container"> 
+ <fieldset><h4>Подробные сведения об ошибке:</h4> 
+  <div id="details-left"> 
+   <table border="0" cellpadding="0" cellspacing="0"> 
+    <tr class="alt"><th>Модуль</th><td>&nbsp;&nbsp;&nbsp;ManagedPipelineHandler</td></tr> 
+    <tr><th>Уведомление</th><td>&nbsp;&nbsp;&nbsp;ExecuteRequestHandler</td></tr> 
+    <tr class="alt"><th>Обработчик</th><td>&nbsp;&nbsp;&nbsp;System.Web.Mvc.MvcHandler</td></tr> 
+    <tr><th>Код ошибки</th><td>&nbsp;&nbsp;&nbsp;0x00000000</td></tr> 
+     
+   </table> 
+  </div> 
+  <div id="details-right"> 
+   <table border="0" cellpadding="0" cellspacing="0"> 
+    <tr class="alt"><th>Запрашиваемый URL-адрес</th><td>&nbsp;&nbsp;&nbsp;http://localhost:54218/Exchanges/Test?date=2005-09-01</td></tr> 
+    <tr><th>Физический путь</th><td>&nbsp;&nbsp;&nbsp;C:\Users\ilya\Desktop\SampleMVCSolution\SampleMVCSolution\Exchanges\Test</td></tr> 
+    <tr class="alt"><th>Способ входа</th><td>&nbsp;&nbsp;&nbsp;Анонимная</td></tr> 
+    <tr><th>Пользователь, выполнивший вход</th><td>&nbsp;&nbsp;&nbsp;Анонимная</td></tr> 
+    <tr class="alt"><th>Каталог трассировки запросов</th><td>&nbsp;&nbsp;&nbsp;C:\Users\ilya\Documents\IISExpress\TraceLogFiles\SAMPLEMVCSOLUTION</td></tr> 
+   </table> 
+   <div class="clear"></div> 
+  </div> 
+ </fieldset> 
+</div> 
+ 
+<div class="content-container"> 
+ <fieldset><h4>Дополнительные сведения:</h4> 
+  Любой модуль может вызывать SetStatus с status, substatus или с модулем HRESULT. Этот модуль обработки настраиваемых ошибок отображает только сообщения об ошибках, связанных с status, касающиеся хорошо известных ошибок. 
+  <p><a href="http://go.microsoft.com/fwlink/?LinkID=62293&amp;IIS70Error=429,0,0x00000000,7601">Просмотреть дополнительные сведения &raquo;</a></p> 
+   
+ </fieldset> 
+</div> 
+</div> 
+</body> 
+</html> 
+
+TEST with date:, statusCode is:429
+============================
+Application_Start is called.
+Set status code to 429
+Range requested for:01.09.2005 0:00:00,04.09.2005 0:00:00,RUB.
+ExchangeInitializer is created.
+Found rates for 0 out of 4 days in the DB. Let's retrieve the rest!
+We have 4 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 01.09.2005 0:00:00
+TEST with date:01.09.2005 0:00:00, statusCode is:429
+WebException with status:ProtocolError
+Got response with error status: 429
+Resource staff secret error message:jsonResponseMock
+TEST with date:, statusCode is:429
+============================
+Application_Start is called.
+Set status code to 429
+Range requested for:01.09.2005 0:00:00,04.09.2005 0:00:00,RUB.
+ExchangeInitializer is created.
+Found rates for 0 out of 4 days in the DB. Let's retrieve the rest!
+We have 4 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 01.09.2005 0:00:00
+TEST with date:01.09.2005 0:00:00, statusCode is:429
+WebException with status:ProtocolError
+Got response with error status: 429
+Resource staff secret error message:jsonResponseMock
+TEST with date:, statusCode is:429
+============================
+Application_Start is called.
+============================
+Application_Start is called.
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:02.09.2005 0:00:00
+Range requested for: 01.09.2005 0:00:00-02.09.2005 0:00:00 USD
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:02.09.2005 0:00:00
+Range requested for: 01.09.2005 0:00:00-02.09.2005 0:00:00 USD
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:02.09.2005 0:00:00
+Range requested for: 01.09.2005 0:00:00-02.09.2005 0:00:00 USD
+============================
+Application_Start is called.
+ExchangeInitializer is created.
+============================
+Application_Start is called.
+ExchangeInitializer is created.
+ExchangeInitializer is created.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:02.09.2005 0:00:00
+Range requested for: 01.09.2005 0:00:00-02.09.2005 0:00:00 USD
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:03.09.2005 0:00:00
+Range requested for: 01.09.2005 0:00:00-03.09.2005 0:00:00 USD
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.09.2005 0:00:00
+Range requested for: 01.09.2005 0:00:00-04.09.2005 0:00:00 USD
+Found rates for 3 out of 4 days in the DB. Let's retrieve the rest!
+We have 1 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 04.09.2005 0:00:00
+Web Exception with status: ConnectFailure
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.09.2005 0:00:00
+Range requested for: 01.09.2005 0:00:00-04.09.2005 0:00:00 USD
+Found rates for 3 out of 4 days in the DB. Let's retrieve the rest!
+We have 1 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 04.09.2005 0:00:00
+Web Exception with status: ConnectFailure
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.09.2005 0:00:00
+Range requested for: 01.09.2005 0:00:00-04.09.2005 0:00:00 USD
+Found rates for 3 out of 4 days in the DB. Let's retrieve the rest!
+We have 1 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 04.09.2005 0:00:00
+Web Exception with status: ConnectFailure
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.09.2005 0:00:00
+Range requested for: 01.09.2005 0:00:00-04.09.2005 0:00:00 USD
+Found rates for 3 out of 4 days in the DB. Let's retrieve the rest!
+We have 1 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 04.09.2005 0:00:00
+Web Exception with status: ConnectFailure
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.09.2005 0:00:00
+Range requested for: 01.09.2005 0:00:00-04.09.2005 0:00:00 USD
+Found rates for 3 out of 4 days in the DB. Let's retrieve the rest!
+We have 1 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 04.09.2005 0:00:00
+Web Exception with status: ConnectFailure
+INDEX
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.09.2005 0:00:00
+Range requested for: 01.09.2005 0:00:00-04.09.2005 0:00:00 USD
+ExchangeInitializer is created.
+Found rates for 3 out of 4 days in the DB. Let's retrieve the rest!
+We have 1 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 04.09.2005 0:00:00
+Web Exception with status: ConnectFailure
+ExchangeResource exception caught.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.08.2005 0:00:00
+Range requested for: 01.09.2005 0:00:00-04.08.2005 0:00:00 USD
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.09.2005 0:00:00
+Range requested for: 01.09.2005 0:00:00-04.09.2005 0:00:00 USD
+ExchangeInitializer is created.
+Found rates for 3 out of 4 days in the DB. Let's retrieve the rest!
+We have 1 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 04.09.2005 0:00:00
+Web Exception with status: ConnectFailure
+ExchangeResource exception caught.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.09.2005 0:00:00
+Range requested for: 01.09.2005 0:00:00-04.09.2005 0:00:00 USD
+Found rates for 3 out of 4 days in the DB. Let's retrieve the rest!
+We have 1 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 04.09.2005 0:00:00
+Web Exception with status: ConnectFailure
+ExchangeResource exception caught.
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.09.2005 0:00:00
+Range requested for: 01.09.2005 0:00:00-04.09.2005 0:00:00 USD
+ExchangeInitializer is created.
+Found rates for 3 out of 4 days in the DB. Let's retrieve the rest!
+We have 1 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 04.09.2005 0:00:00
+Web Exception with status: ConnectFailure
+ExchangeResource exception caught.
+Some base resource exception caught.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.09.2005 0:00:00
+Range requested for: 01.09.2005 0:00:00-04.09.2005 0:00:00 USD
+Found rates for 3 out of 4 days in the DB. Let's retrieve the rest!
+We have 1 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 04.09.2005 0:00:00
+Web Exception with status: ConnectFailure
+ExchangeResource exception caught.
+Some base resource exception caught.
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.09.2005 0:00:00
+Range requested for: 01.09.2005 0:00:00-04.09.2005 0:00:00 USD
+ExchangeInitializer is created.
+Found rates for 3 out of 4 days in the DB. Let's retrieve the rest!
+We have 1 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 04.09.2005 0:00:00
+Web Exception with status: ConnectFailure
+ExchangeResource exception caught.
+Some base resource exception caught.
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.09.2005 0:00:00
+Range requested for: 01.09.2005 0:00:00-04.09.2005 0:00:00 USD
+ExchangeInitializer is created.
+Found rates for 3 out of 4 days in the DB. Let's retrieve the rest!
+We have 1 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 04.09.2005 0:00:00
+Web Exception with status: ConnectFailure
+ExchangeResource exception caught.
+Some base resource exception caught.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.09.2005 0:00:00
+Range requested for: 01.09.2005 0:00:00-04.09.2005 0:00:00 USD
+Found rates for 3 out of 4 days in the DB. Let's retrieve the rest!
+We have 1 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 04.09.2005 0:00:00
+Web Exception with status: ConnectFailure
+ExchangeResource exception caught.
+Some base resource exception caught.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.09.2005 0:00:00
+Range requested for: 01.09.2005 0:00:00-04.09.2005 0:00:00 USD
+Found rates for 3 out of 4 days in the DB. Let's retrieve the rest!
+We have 1 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 04.09.2005 0:00:00
+Web Exception with status: ConnectFailure
+ExchangeResource exception caught.
+Some base resource exception caught.
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.09.2005 0:00:00
+Range requested for: 01.09.2005 0:00:00-04.09.2005 0:00:00 USD
+ExchangeInitializer is created.
+Found rates for 3 out of 4 days in the DB. Let's retrieve the rest!
+We have 1 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 04.09.2005 0:00:00
+Web Exception with status: ConnectFailure
+ExchangeResource exception caught.
+Some base resource exception caught. Header for response: Couldn't supply information about USD on these dates: 04.09.2005 0:00:00. Reason:
+
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.09.2005 0:00:00
+Range requested for: 01.09.2005 0:00:00-04.09.2005 0:00:00 USD
+ExchangeInitializer is created.
+Found rates for 3 out of 4 days in the DB. Let's retrieve the rest!
+We have 1 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 04.09.2005 0:00:00
+Web Exception with status: ConnectFailure
+ExchangeResource exception caught.
+Some base resource exception caught. Header for response: Couldn't supply information about USD on these dates: 04.09.2005 0:00:00. Reason:
+
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.09.2005 0:00:00
+Range requested for: 01.09.2005 0:00:00-04.09.2005 0:00:00 USD
+Found rates for 3 out of 4 days in the DB. Let's retrieve the rest!
+We have 1 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 04.09.2005 0:00:00
+Web Exception with status: ConnectFailure
+ExchangeResource exception caught.
+Some base resource exception caught. Header for response: Couldn't supply information about USD on these dates: 04.09.2005 0:00:00. Reason:
+
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.08.2005 0:00:00
+Range requested for: 01.09.2005 0:00:00-04.08.2005 0:00:00 USD
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.09.2005 0:00:00
+Range requested for: 01.09.2005 0:00:00-04.09.2005 0:00:00 USD
+Found rates for 3 out of 4 days in the DB. Let's retrieve the rest!
+We have 1 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 04.09.2005 0:00:00
+Web Exception with status: ConnectFailure
+ExchangeResource exception caught.
+Some base resource exception caught. Header for response: Couldn't supply information about USD on these dates: 04.09.2005 0:00:00. Reason:
+
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.09.2005 0:00:00
+Range requested for: 01.09.2005 0:00:00-04.09.2005 0:00:00 USD
+Found rates for 3 out of 4 days in the DB. Let's retrieve the rest!
+We have 1 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 04.09.2005 0:00:00
+Web Exception with status: ConnectFailure
+ExchangeResource exception caught.
+Some base resource exception caught. Header for response: Couldn't supply information about USD on these dates: 04.09.2005 0:00:00. Reason:
+
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.09.2005 0:00:00
+Range requested for: 01.09.2005 0:00:00-04.09.2005 0:00:00 USD
+ExchangeInitializer is created.
+Found rates for 3 out of 4 days in the DB. Let's retrieve the rest!
+We have 1 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 04.09.2005 0:00:00
+Web Exception with status: ConnectFailure
+ExchangeResource exception caught.
+Some base resource exception caught. Header for response: <Couldn't supply information about USD on these dates: 04.09.2005 0:00:00. Reason:
+>
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.09.2005 0:00:00
+Range requested for: 01.09.2005 0:00:00-04.09.2005 0:00:00 USD
+ExchangeInitializer is created.
+Found rates for 3 out of 4 days in the DB. Let's retrieve the rest!
+We have 1 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 04.09.2005 0:00:00
+Web Exception with status: ConnectFailure
+ExchangeResource exception caught.
+Some base resource exception caught. Header for response: <Couldn't supply information about USD on these dates: 04.09.2005 0:00:00. Reason:<br/>>
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.09.2005 0:00:00
+Range requested for: 01.09.2005 0:00:00-04.09.2005 0:00:00 USD
+ExchangeInitializer is created.
+Found rates for 3 out of 4 days in the DB. Let's retrieve the rest!
+We have 1 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 04.09.2005 0:00:00
+Web Exception with status: ConnectFailure
+ExchangeResource exception caught.
+Some base resource exception caught. Header for response: <Couldn't supply information about USD on these dates: 2005-09-04. Reason:<br/>>
+INDEX
+CUSTOM model binder is used: BindModel.
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+Value is null.
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+Value is null for: date
+============================
+Application_Start is called.
+============================
+Application_Start is called.
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+ExchangeInitializer.Seed is called.
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+ExchangeInitializer.Seed is called.
+Calling Exchange..Repository.Add()
+Calling Exchange..Repository.Add()
+Calling Exchange..Repository.Add()
+============================
+Application_Start is called.
+============================
+Application_Start is called.
+============================
+Application_Start is called.
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+INDEX
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+DETAILS:01.09.2005 0:00:00 for USD!
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+============================
+Application_Start is called.
+============================
+Application_Start is called.
+============================
+Application_Start is called.
+============================
+Application_Start is called.
+============================
+Application_Start is called.
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+============================
+Application_Start is called.
+============================
+Application_Start is called.
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+INDEX
+INDEX
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+INDEX
+INDEX
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+EDIT_3:01.09.2005 0:00:00!
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+EDIT_3:01.09.2005 0:00:00!
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+EDIT_3:01.09.2005 0:00:00!
+INDEX
+INDEX
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+EDIT_3:01.09.2005 0:00:00!
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+DETAILS:01.09.2005 0:00:00 for USD!
+CUSTOM model binder is used: BindModel.
+INDEX
+INDEX
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+EDIT_3:01.09.2005 0:00:00!
+INDEX
+INDEX
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+EDIT_3:01.09.2005 0:00:00!
+CUSTOM model binder is used: BindModel.
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+CUSTOM model binder is used: BindModel.
+Value is null for: date
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+CUSTOM model binder is used: BindModel.
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:15.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-15.06.2014 0:00:00 RUB
+ExchangeInitializer is created.
+Found rates for 0 out of 15 days in the DB. Let's retrieve the rest!
+We have 15 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 01.06.2014 0:00:00
+Got response with status: 404
+So, the status is not successful. Let's map it to an error.
+ExchangeResource exception caught.
+Some base resource exception caught. Header for response: <Couldn't supply information about RUB on these dates: . Reason:<br/>>
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:15.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-15.06.2014 0:00:00 RUB
+Found rates for 0 out of 15 days in the DB. Let's retrieve the rest!
+We have 15 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 01.06.2014 0:00:00
+Got response with status: 404
+So, the status is not successful. Let's map it to an error.
+Adding 1 failed dates.
+Base ExchangeResource exception caught with 0 failed dates.
+Some base resource exception caught. Header for response: <Couldn't supply information about RUB on these dates: . Reason:<br/>>
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:15.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-15.06.2014 0:00:00 RUB
+Found rates for 0 out of 15 days in the DB. Let's retrieve the rest!
+We have 15 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 01.06.2014 0:00:00
+Got response with status: 404
+So, the status is not successful. Let's map it to an error.
+Adding 1 failed dates.
+Base ExchangeResource exception caught with 1 failed dates.
+Some base resource exception caught. Header for response: <Couldn't supply information about RUB on these dates: 2014-06-01. Reason:<br/>>
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-01.06.2014 0:00:00 RUB
+Found rates for 0 out of 1 days in the DB. Let's retrieve the rest!
+We have 1 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 01.06.2014 0:00:00
+Got response with status: 200
+Deserialized the response to an instance.
+Database is populated with 166 entries for date 2014-06-01.
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+INDEX
+============================
+Application_Start is called.
+============================
+Application_Start is called.
+RANGE W/O arguments.
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+============================
+Application_Start is called.
+RANGE W/O arguments.
+============================
+Application_Start is called.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+RANGE W/O arguments.
+RANGE W/O arguments.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:02.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:16.06.2014 0:00:00
+RangeRoot for exchangeRange.
+Model is valid. Be ready to request the range.
+INDEX
+RANGE W/O arguments.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:02.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:16.06.2013 0:00:00
+RangeRoot for exchangeRange.
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+RANGE W/O arguments.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:02.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:16.06.2013 0:00:00
+RangeRoot for exchangeRange.
+Model is not valid: System.Web.Mvc.ModelErrorCollection
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:02.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.01.2013 0:00:00
+RangeRoot for exchangeRange.
+Model is not valid: System.Web.Mvc.ModelError
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:02.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.01.2013 0:00:00
+RangeRoot for exchangeRange.
+Model is not valid: System.Web.Mvc.ModelError; ; System.Exception: Validation excpetion from setter: endDate < startDate
+   at System.ComponentModel.ReflectPropertyDescriptor.SetValue(Object component, Object value)
+   at System.Web.Mvc.DefaultModelBinder.SetProperty(ControllerContext controllerContext, ModelBindingContext bindingContext, PropertyDescriptor propertyDescriptor, Object value)
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:02.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.01.2013 0:00:00
+RangeRoot for exchangeRange.
+Model is not valid: System.Web.Mvc.ModelError; ; System.Exception: Validation excpetion from setter: endDate < startDate
+   at System.ComponentModel.ReflectPropertyDescriptor.SetValue(Object component, Object value)
+   at System.Web.Mvc.DefaultModelBinder.SetProperty(ControllerContext controllerContext, ModelBindingContext bindingContext, PropertyDescriptor propertyDescriptor, Object value)
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:02.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.01.2013 0:00:00
+RangeRoot for exchangeRange.
+Model is not valid: System.Web.Mvc.ModelError; ; System.Exception: Validation excpetion from setter: endDate < startDate
+   at System.ComponentModel.ReflectPropertyDescriptor.SetValue(Object component, Object value)
+   at System.Web.Mvc.DefaultModelBinder.SetProperty(ControllerContext controllerContext, ModelBindingContext bindingContext, PropertyDescriptor propertyDescriptor, Object value)
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:02.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.06.2014 0:00:00
+RangeRoot for exchangeRange.
+Model is valid. Be ready to request the range.
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:02.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.06.2014 0:00:00
+RangeRoot for exchangeRange.
+Model is valid. Be ready to request the range.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:02.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:04.06.2014 0:00:00
+Range requested for: 02.06.2014 0:00:00-04.06.2014 0:00:00 RUB
+INDEX
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-01.06.2014 0:00:00 RUB
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-01.06.2014 0:00:00 RUB
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-01.06.2014 0:00:00 RUB
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-01.06.2014 0:00:00 YEN
+Found rates for 0 out of 1 days in the DB. Let's retrieve the rest!
+We have 1 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 01.06.2014 0:00:00
+Got response with status: 200
+Deserialized the response to an instance.
+Database is populated with 166 entries for date 2014-06-01.
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+INDEX
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-01.06.2014 0:00:00 YEN
+Found rates for 0 out of 1 days in the DB. Let's retrieve the rest!
+We have 1 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 01.06.2014 0:00:00
+Got response with status: 200
+Deserialized the response to an instance.
+Database is populated with 166 entries for date 2014-06-01.
+Adding 1 failed dates.
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-01.06.2014 0:00:00 YEN
+Adding 1 failed dates.
+Base ExchangeResource exception caught with 1 failed dates.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-01.06.2014 0:00:00 YER
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-01.06.2014 0:00:00 YER
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-01.06.2014 0:00:00 YER
+ExchangeInitializer is created.
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-01.06.2014 0:00:00 YER
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-01.06.2014 0:00:00 YER
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+RANGE W/O arguments.
+RANGE W/O arguments.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-01.06.2014 0:00:00 YER
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+RANGE W/O arguments.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-01.06.2014 0:00:00 YER
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-01.06.2014 0:00:00 YER
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-01.06.2014 0:00:00 YER
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-01.06.2014 0:00:00 YER
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-01.06.2014 0:00:00 YER
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+RANGE W/O arguments.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.09.2005 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:02.09.2005 0:00:00
+Range requested for: 01.09.2005 0:00:00-02.09.2005 0:00:00 USD
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-01.06.2014 0:00:00 YER
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+============================
+Application_Start is called.
+RANGE W/O arguments.
+INDEX
+ExchangeInitializer is created.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-01.06.2014 0:00:00 YER
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-01.06.2014 0:00:00 YER
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-01.06.2014 0:00:00 YER
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-01.06.2014 0:00:00 YER
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-01.06.2014 0:00:00 YER
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-01.06.2014 0:00:00 YER
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-01.06.2014 0:00:00 YER
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-01.06.2014 0:00:00 YER
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-01.06.2014 0:00:00 YER
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-01.06.2014 0:00:00 YER
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-01.06.2014 0:00:00 YER
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-01.06.2014 0:00:00 YER
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-01.06.2014 0:00:00 YER
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-01.06.2014 0:00:00 YER
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-01.06.2014 0:00:00 YER
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-01.06.2014 0:00:00 YER
+ExchangeInitializer is created.
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-01.06.2014 0:00:00 YER
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:01.06.2014 0:00:00
+Range requested for: 01.06.2014 0:00:00-01.06.2014 0:00:00 YER
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/1/2014 12:00:00 AM
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/1/2014 12:00:00 AM
+Range requested for: 6/1/2014 12:00:00 AM-6/1/2014 12:00:00 AM YER
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+============================
+Application_Start is called.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/1/2014 12:00:00 AM
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/1/2014 12:00:00 AM
+Range requested for: 6/1/2014 12:00:00 AM-6/1/2014 12:00:00 AM YER
+ExchangeInitializer is created.
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/1/2014 12:00:00 AM
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/1/2014 12:00:00 AM
+Range requested for: 6/1/2014 12:00:00 AM-6/1/2014 12:00:00 AM YER
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+RANGE W/O arguments.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/1/2014 12:00:00 AM
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/1/2014 12:00:00 AM
+Range requested for: 6/1/2014 12:00:00 AM-6/1/2014 12:00:00 AM RUB
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/1/2014 12:00:00 AM
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/2/2014 12:00:00 AM
+RangeRoot for exchangeRange.
+Model is valid. Be ready to request the range.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/1/2014 12:00:00 AM
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/2/2014 12:00:00 AM
+Range requested for: 6/1/2014 12:00:00 AM-6/2/2014 12:00:00 AM RUB
+Adding 0 failed dates.
+ExchangeResource exception caught with 0 failed dates. Specifying type...
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+RANGE W/O arguments.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/1/2014 12:00:00 AM
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/2/2014 12:00:00 AM
+RangeRoot for exchangeRange.
+Model is valid. Be ready to request the range.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/1/2014 12:00:00 AM
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/2/2014 12:00:00 AM
+Range requested for: 6/1/2014 12:00:00 AM-6/2/2014 12:00:00 AM RUB
+Found rates for 1 out of 2 days in the DB. Let's retrieve the rest!
+We have 1 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 6/2/2014 12:00:00 AM
+Got response with status: 200
+Deserialized the response to an instance.
+Database is populated with 166 entries for date 2014-06-02.
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/1/2014 12:00:00 AM
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/2/2014 12:00:00 AM
+Range requested for: 6/1/2014 12:00:00 AM-6/2/2014 12:00:00 AM RUB
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/1/2014 12:00:00 AM
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/2/2014 12:00:00 AM
+Range requested for: 6/1/2014 12:00:00 AM-6/2/2014 12:00:00 AM RUB
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/1/2014 12:00:00 AM
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/2/2014 12:00:00 AM
+Range requested for: 6/1/2014 12:00:00 AM-6/2/2014 12:00:00 AM RUB
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/1/2014 12:00:00 AM
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/2/2014 12:00:00 AM
+Range requested for: 6/1/2014 12:00:00 AM-6/2/2014 12:00:00 AM RUB
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/1/2014 12:00:00 AM
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/2/2014 12:00:00 AM
+Range requested for: 6/1/2014 12:00:00 AM-6/2/2014 12:00:00 AM RUB
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/1/2014 12:00:00 AM
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/2/2014 12:00:00 AM
+Range requested for: 6/1/2014 12:00:00 AM-6/2/2014 12:00:00 AM RUB
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/1/2014 12:00:00 AM
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/2/2014 12:00:00 AM
+Range requested for: 6/1/2014 12:00:00 AM-6/2/2014 12:00:00 AM RUB
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/1/2014 12:00:00 AM
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/2/2014 12:00:00 AM
+Range requested for: 6/1/2014 12:00:00 AM-6/2/2014 12:00:00 AM RUB
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/1/2014 12:00:00 AM
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/2/2014 12:00:00 AM
+Range requested for: 6/1/2014 12:00:00 AM-6/2/2014 12:00:00 AM RUB
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+INDEX
+INDEX
+INDEX
+INDEX
+RANGE W/O arguments.
+INDEX
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+INDEX
+INDEX
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:9/1/2005 12:00:00 AM
+DETAILS:9/1/2005 12:00:00 AM for USD!
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:9/1/2005 12:00:00 AM
+DETAILS:9/1/2005 12:00:00 AM for USD!
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:9/1/2005 12:00:00 AM
+DETAILS:9/1/2005 12:00:00 AM for USD!
+INDEX
+INDEX
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:9/1/2005 12:00:00 AM
+DETAILS:9/1/2005 12:00:00 AM for USD!
+INDEX
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:9/1/2005 12:00:00 AM
+DELETE:9/1/2005 12:00:00 AM for USD.
+INDEX
+INDEX
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:9/2/2005 12:00:00 AM
+DELETE:9/2/2005 12:00:00 AM for USD.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:9/2/2005 12:00:00 AM
+DELETE:9/2/2005 12:00:00 AM for USD.
+INDEX
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:9/3/2005 12:00:00 AM
+DELETE:9/3/2005 12:00:00 AM for USD.
+INDEX
+INDEX
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+INDEX
+INDEX
+RANGE W/O arguments.
+RANGE W/O arguments.
+INDEX
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/2/2014 12:00:00 AM
+DETAILS:6/2/2014 12:00:00 AM for XAG.
+INDEX
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+============================
+Application_Start is called.
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+INDEX
+RANGE W/O arguments.
+INDEX
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+RANGE W/O arguments.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/1/2014 12:00:00 AM
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/2/2014 12:00:00 AM
+RangeRoot for exchangeRange.
+Model is valid. Be ready to request the range.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/1/2014 12:00:00 AM
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/2/2014 12:00:00 AM
+Range requested for: 6/1/2014 12:00:00 AM-6/2/2014 12:00:00 AM RUB
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/1/2014 12:00:00 AM
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/2/2014 12:00:00 AM
+Range requested for: 6/1/2014 12:00:00 AM-6/2/2014 12:00:00 AM RUB
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+RANGE W/O arguments.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/1/2014 12:00:00 AM
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/2/2014 12:00:00 AM
+RangeRoot for exchangeRange.
+Model is valid. Be ready to request the range.
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+RANGE W/O arguments.
+ToString is called on exchange range!
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/1/2014 12:00:00 AM
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/2/2014 12:00:00 AM
+RangeRoot for exchangeRange.
+Model is valid. Be ready to request the range.
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+CUSTOM model binder is used: BindModel.
+RANGE W/O arguments.
+============================
+Application_Start is called.
+INDEX
+RANGE W/O arguments.
+ExchangeInitializer is created.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/2/2014 12:00:00 AM
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/16/2014 12:00:00 AM
+RANGE for SampleMVCSolution.Models.ExchangeRangeViewModel.
+Range requested for: 6/2/2014 12:00:00 AM-6/16/2014 12:00:00 AM RUB
+Found rates for 1 out of 15 days in the DB. Let's retrieve the rest!
+We have 14 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 6/3/2014 12:00:00 AM
+Got response with status: 200
+Deserialized the response to an instance.
+Database is populated with 166 entries for date 2014-06-03.
+Call to OpenExchangeRates to retrieve a date: 6/4/2014 12:00:00 AM
+Got response with status: 200
+Deserialized the response to an instance.
+Database is populated with 166 entries for date 2014-06-04.
+Call to OpenExchangeRates to retrieve a date: 6/5/2014 12:00:00 AM
+Got response with status: 200
+Deserialized the response to an instance.
+Database is populated with 166 entries for date 2014-06-05.
+Call to OpenExchangeRates to retrieve a date: 6/6/2014 12:00:00 AM
+Got response with status: 200
+Deserialized the response to an instance.
+Database is populated with 166 entries for date 2014-06-06.
+Call to OpenExchangeRates to retrieve a date: 6/7/2014 12:00:00 AM
+Got response with status: 200
+Deserialized the response to an instance.
+Database is populated with 166 entries for date 2014-06-07.
+Call to OpenExchangeRates to retrieve a date: 6/8/2014 12:00:00 AM
+Got response with status: 200
+Deserialized the response to an instance.
+Database is populated with 166 entries for date 2014-06-08.
+Call to OpenExchangeRates to retrieve a date: 6/9/2014 12:00:00 AM
+Got response with status: 200
+Deserialized the response to an instance.
+Database is populated with 166 entries for date 2014-06-09.
+Call to OpenExchangeRates to retrieve a date: 6/10/2014 12:00:00 AM
+Got response with status: 200
+Deserialized the response to an instance.
+Database is populated with 166 entries for date 2014-06-10.
+Call to OpenExchangeRates to retrieve a date: 6/11/2014 12:00:00 AM
+Got response with status: 200
+Deserialized the response to an instance.
+Database is populated with 166 entries for date 2014-06-11.
+Call to OpenExchangeRates to retrieve a date: 6/12/2014 12:00:00 AM
+Got response with status: 200
+Deserialized the response to an instance.
+Database is populated with 166 entries for date 2014-06-12.
+Call to OpenExchangeRates to retrieve a date: 6/13/2014 12:00:00 AM
+Got response with status: 200
+Deserialized the response to an instance.
+Database is populated with 166 entries for date 2014-06-13.
+Call to OpenExchangeRates to retrieve a date: 6/14/2014 12:00:00 AM
+Got response with status: 200
+Deserialized the response to an instance.
+Database is populated with 166 entries for date 2014-06-14.
+Call to OpenExchangeRates to retrieve a date: 6/15/2014 12:00:00 AM
+Got response with status: 200
+Deserialized the response to an instance.
+Database is populated with 166 entries for date 2014-06-15.
+Call to OpenExchangeRates to retrieve a date: 6/16/2014 12:00:00 AM
+Got response with status: 200
+Deserialized the response to an instance.
+Database is populated with 166 entries for date 2014-06-16.
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+RANGE W/O arguments.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/1/2014 12:00:00 AM
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/2/2014 12:00:00 AM
+RangeRoot for exchangeRange.
+Model is valid. Be ready to request the range.
+RANGE for SampleMVCSolution.Models.ExchangeRangeViewModel.
+Range requested for: 6/1/2014 12:00:00 AM-6/2/2014 12:00:00 AM RUB
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+RANGE W/O arguments.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/2/2014 12:00:00 AM
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/1/2014 12:00:00 AM
+RangeRoot for exchangeRange.
+Model is not valid: System.Web.Mvc.ModelError; ; System.Exception: Validation excpetion from setter: endDate < startDate
+   at System.ComponentModel.ReflectPropertyDescriptor.SetValue(Object component, Object value)
+   at System.Web.Mvc.DefaultModelBinder.SetProperty(ControllerContext controllerContext, ModelBindingContext bindingContext, PropertyDescriptor propertyDescriptor, Object value)
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+RANGE W/O arguments.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/2/2014 12:00:00 AM
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/1/2014 12:00:00 AM
+RangeRoot for exchangeRange.
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+RANGE W/O arguments.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/2/2014 12:00:00 AM
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/1/2014 12:00:00 AM
+RangeRoot for exchangeRange.
+Model is not valid.
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+RANGE W/O arguments.
+RANGE W/O arguments.
+============================
+Application_Start is called.
+INDEX
+ExchangeInitializer is created.
+RANGE W/O arguments.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/3/2014 12:00:00 AM
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/17/2014 12:00:00 AM
+RangeRoot for exchangeRange.
+Model is valid. Be ready to request the range.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/3/2014 12:00:00 AM
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/17/2014 12:00:00 AM
+RANGE for SampleMVCSolution.Models.ExchangeRangeViewModel.
+Range requested for: 6/3/2014 12:00:00 AM-6/17/2014 12:00:00 AM RUB
+Found rates for 14 out of 15 days in the DB. Let's retrieve the rest!
+We have 1 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 6/17/2014 12:00:00 AM
+Got response with status: 200
+Deserialized the response to an instance.
+Database is populated with 166 entries for date 2014-06-17.
+Retrieved range of responses without errors.
+Now we have all exchanges and ready to render a view.
+RANGE W/O arguments.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/3/2014 12:00:00 AM
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:9/3/2014 12:00:00 AM
+RangeRoot for exchangeRange.
+Model is valid. Be ready to request the range.
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:6/3/2014 12:00:00 AM
+CUSTOM model binder is used: BindModel.
+HERE IS WHAT I GOT:9/3/2014 12:00:00 AM
+RANGE for SampleMVCSolution.Models.ExchangeRangeViewModel.
+Range requested for: 6/3/2014 12:00:00 AM-9/3/2014 12:00:00 AM RUB
+RANGE W/O arguments.
+============================
+Application_Start is called.
+============================
+Application_Start is called.
+RANGE for SampleMVCSolution.Models.ExchangeRangeViewModel.
+Range requested for: 1/1/0001 12:00:00 AM-1/1/0001 12:00:00 AM 
+ExchangeInitializer is created.
+Found rates for 0 out of 1 days in the DB. Let's retrieve the rest!
+We have 1 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 1/1/0001 12:00:00 AM
+Got response with status: 400
+So, the status is not successful. Let's map it to an error.
+Adding 1 failed dates.
+ExchangeResource exception caught with 1 failed dates. Specifying type...
+RANGE for SampleMVCSolution.Models.ExchangeRangeViewModel.
+Range requested for: 1/1/0001 12:00:00 AM-1/1/0001 12:00:00 AM 
+Found rates for 0 out of 1 days in the DB. Let's retrieve the rest!
+We have 1 dates to retrieve.
+Call to exchange external resource.
+Call to OpenExchangeRates to retrieve a date: 1/1/0001 12:00:00 AM
+Got response with status: 400
+So, the status is not successful. Let's map it to an error.
+Adding 1 failed dates.
+ExchangeResource exception caught with 1 failed dates. Specifying type...
+============================
+Application_Start is called.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+INDEX
+ExchangeInitializer is created.
+RANGE W/O arguments.
+RANGE W/O arguments.
+RANGE W/O arguments.
+============================
+Application_Start is called.
+RANGE W/O arguments.
+============================
+Application_Start is called.
+RANGE W/O arguments.

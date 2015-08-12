@@ -1,0 +1,9 @@
+F:\__Storage__\Job\Seek\2014.03\interensee.ru\C#\1. Test Task\Solution\SaritasaShortestPath\Dijkstra\bin\Debug\Dijkstra.dll
+F:\__Storage__\Job\Seek\2014.03\interensee.ru\C#\1. Test Task\Solution\SaritasaShortestPath\Dijkstra\bin\Debug\Dijkstra.pdb
+F:\__Storage__\Job\Seek\2014.03\interensee.ru\C#\1. Test Task\Solution\SaritasaShortestPath\Dijkstra\obj\Debug\Dijkstra.dll
+F:\__Storage__\Job\Seek\2014.03\interensee.ru\C#\1. Test Task\Solution\SaritasaShortestPath\Dijkstra\obj\Debug\Dijkstra.pdb
+F:\__Storage__\Job\Seek\2014.03\interensee.ru\C#\1. Test Task\Solution\SaritasaShortestPath\Application\Dijkstra_Project\bin\Debug\Dijkstra.dll
+F:\__Storage__\Job\Seek\2014.03\interensee.ru\C#\1. Test Task\Solution\SaritasaShortestPath\Application\Dijkstra_Project\bin\Debug\Dijkstra.pdb
+F:\__Storage__\Job\Seek\2014.03\interensee.ru\C#\1. Test Task\Solution\SaritasaShortestPath\Application\Dijkstra_Project\obj\Debug\Dijkstra.csprojResolveAssemblyReference.cache
+F:\__Storage__\Job\Seek\2014.03\interensee.ru\C#\1. Test Task\Solution\SaritasaShortestPath\Application\Dijkstra_Project\obj\Debug\Dijkstra.dll
+F:\__Storage__\Job\Seek\2014.03\interensee.ru\C#\1. Test Task\Solution\SaritasaShortestPath\Application\Dijkstra_Project\obj\Debug\Dijkstra.pdb

@@ -1,0 +1,15 @@
+﻿@model SampleMVCSolution.Models.Exchange
+
+@{
+    ViewBag.Title = "Success";
+}
+
+<h2>Exchange was removed successfully</h2>
+
+<div>
+    <hr />
+    The record for @Html.DisplayFor(model => model.Date) @Html.DisplayFor(model => model.CurrencyCode) successfully removed!
+</div>
+<p>
+    @Html.ActionLink("Back to List", "Index")
+</p>
