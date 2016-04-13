@@ -30,7 +30,7 @@ But I see no point in polishing as the current solution just
 works and proves the concepts.  
 2)  
 I'm not a professional APS.NET MVC developer so some of my  
-solutions may be out of the supposed way to do the things.  
+solutions may be out of the supposed way of doing things.  
 
 
 Design Decisions
@@ -39,7 +39,7 @@ The Repository Pattern Hides External Resources
 -----------------------------------------------
 External JSON services are abstracted from controllers and other layers  
 in a repository entity (so, the repository pattern is used).  
-It allows to switch repository implementation one day to, f.e., one  
+It allows to switch repository implementation one day to, e.g., one  
 which doesn't use external services at all.  
 
 An external service is named an external resource hereafter.  
